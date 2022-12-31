@@ -120,9 +120,9 @@ a {
       margin: 15px 0 10px 0;
       i {
         flex-grow: 1;
-        margin: 0 0.5%;
-        height: 50px;
-        border-radius: 5px;
+        margin: 0 1.2%;
+        height: 65px;
+        border-radius: 18px;
         transition: opacity ease 150ms;
         &.ok {
           background-color: $primary-color;
@@ -144,6 +144,14 @@ a {
         }
       }
     }
+    @media (max-width: 980px){
+      i{
+        margin: 0 0.6% !important;
+        height: 55px !important;
+      }
+
+    }
+    
     .summary {
       display: flex;
       justify-content: space-between;
