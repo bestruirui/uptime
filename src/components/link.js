@@ -1,7 +1,8 @@
 function Link(props = { text, to }) {
   return (
-     <a >
-     </a>
+    <a {...props} href={props.to} target='_blank'>
+      {props.text}
+    </a>
   );
 }
 
