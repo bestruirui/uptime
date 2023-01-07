@@ -1,7 +1,7 @@
 window.Config = {
 
   // 显示标题
-  SiteName: '小瑞站点监测',
+  SiteName: '小瑞的服务监控',
 
   // UptimeRobot Api Keys
   // 支持 Monitor-Specific 和 Read-Only
