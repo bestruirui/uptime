@@ -1,15 +1,16 @@
 # uptime-status
 
 一个基于 UptimeRobot API 的在线状态面板，修改自 [uptime-status](https://github.com/yb/uptime-status)  
+## 预览
+![image](https://user-images.githubusercontent.com/89796393/213205040-ef88a5a8-712c-411b-b321-4a02fbd9d164.png)
 
-![IMSYY-站点监测.png](https://s2.loli.net/2022/07/21/Bq9sNMiT7DmvoLd.png)
 
 ## 修改内容
 
 - 修改部分样式
 - 新增站点状态总览
 - 新增数据获取失败提示
-- 移动端适配
+- ~移动端适配~
 
 ## 事先准备
 
