@@ -12,7 +12,6 @@ window.Config = {
     'm793367142-e17124847e3e362da2787a28',//京东登录
     'm793459061-6bba3a9193b3a9eafb577fd2',//网站截图
     'm793459042-290866b557decff10d76baee',//WebRec
-    'm793377775-f73841ef05fa209816f0201a',//Alist
     'm793459032-ecf03a4ffc4a0fdda25d0eff',//SnapDrop
   ],
 
